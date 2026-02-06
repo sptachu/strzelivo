@@ -64,5 +64,5 @@ To view current leaderboard hold TAB.
 
 This is a group project, full credit also goes to my colleagues:
 - Kacper Gałczyk (https://github.com/kgalczyk)
-- Stanisław Ptaszyński (https://github.com/sptachu)
+- Igor Walasek (https://github.com/igorw33)
 - Maciej Kochan (https://github.com/m-c-j)
